@@ -13,10 +13,10 @@ def login_to_twitter(consumer_key, consumer_secret, access_token, access_token_s
 
 
 def post_tweets():
-    consumer_key = 'Io9aj4oEMo6NZPy1NVuQzaGuK'
-    consumer_secret = 'zIL28GWqGXD30vNoMUlxFqh16AgTX3gj5SiNcizRcA98S0JXTD'
-    access_token = '2596662433-v6a58J7OGe4eyKWWVjbSbCo6lVVO5kLkiuyUU47'
-    access_token_secret = 'jjOlmFW8rGVtSTe7Pfye7N2nwTla4LCV8PFHfsfYuHZ9V'
+    consumer_key = 'Io9aj4<masked>NVuQzaGuK'
+    consumer_secret = 'zIL28GWqGXD30<masked>gj5SiNcizRcA98S0JXTD'
+    access_token = '2596662433-v6a58J7OG<masked>lVVO5kLkiuyUU47'
+    access_token_secret = 'jjOlmFW8rGVtST<masked>4LCV8PFHfsfYuHZ9V'
 
     message = "this is a test tweet by BOT"
 
